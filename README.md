@@ -1,4 +1,5 @@
 # CULT Resources Microservice
+This microservice might turn out to be the more holistic approach when compared to the [evidence links microservice](https://github.com/cultfamily-on-github/cult-evidence-links-microservice). 
 
 In order to strengthen resilience, scalability and technological freedom for contributors, we establish a microservices architecture. 
 
